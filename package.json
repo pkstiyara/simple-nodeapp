@@ -1,0 +1,22 @@
+{
+  "name": "simple-nodeapp",
+  "version": "1.0.0",
+  "description": "For learning docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pkstiyara/simple-nodeapp.git"
+  },
+  "author": "Pankaj Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pkstiyara/simple-nodeapp/issues"
+  },
+  "homepage": "https://github.com/pkstiyara/simple-nodeapp#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
